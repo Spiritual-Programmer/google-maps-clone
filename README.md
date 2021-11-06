@@ -1,0 +1,10 @@
+## Getting Started
+This Google Maps Clone is built using the mapbox API.
+
+### Installation
+
+Clone the repo into your desired location using `git clone https://github.com/Spiritual-Programmer/google-maps-clone.git`
+
+### How to run our project
+
+Run `index.html` on your preferred browser
