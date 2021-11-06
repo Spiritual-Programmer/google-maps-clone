@@ -1,5 +1,5 @@
 ## Getting Started
-This Google Maps Clone is built using the mapbox API.
+This Google Maps Clone is built using the Mapbox API.
 
 ### Installation
 
