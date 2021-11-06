@@ -1,3 +1,4 @@
+<img src="https://spiritual-programmer.github.io/images/googlemapsCloneGif.gif" width="1000" height="500" >
 ## Getting Started
 This Google Maps Clone is built using the Mapbox API.
 
